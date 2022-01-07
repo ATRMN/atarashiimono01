@@ -4,5 +4,5 @@
 "discordId":"928630685533634571",
 "pool-list":"true",
 "poolMetaData":"https://raw.githubusercontent.com/ATRMN/atarashiimono01/main/poolMetaData.json",
-"validation":"https://xstakepool.com/sjg-validation.json"
+"validation":"https://raw.githubusercontent.com/ATRMN/atarashiimono01/main/sjg-validation.json"
 }
